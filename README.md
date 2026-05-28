@@ -9,3 +9,6 @@
 
 # 参考
 1. 文章里用的 python2 代码, mac 电脑默认已经没有 python2 了: https://blog.liqiye.com/posts/3839389167/index.html
+
+# 其他
+1. 公网访问: 超管账号登录后，安全 -> 防火墙 -> 攻击保护设置 -> 防攻击保护【关闭】
